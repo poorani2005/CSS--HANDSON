@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopee</title>
+    <style>
+        .dashboard
+        {
+            background-color: rgb(255, 122, 89); 
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<div class="grid-container"></div>
+    <div class="dashboard">shop world</div>
+    <h1>Discover new bags</h1>
+    <center>
+    <img id="titleImage" src=https://static.doofinder.com/main-files/uploads/2020/05/Ideas-crear-tienda-online.jpg></center>
+    <img id="productName1"src=https://5.imimg.com/data5/UD/KI/MY-57198351/plain-school-bag-500x500.jpg width="100" height="100" >
+    <p id="productImage1">Tommy hiifiger</p>
+    <p id="productPrice1">$75</p><br>
+        <input type="submit"id="productAdd1"value="Add">
+    </div>
+        <div>
+            <center>
+        <img id="productImage2"src=https://www.grabon.in/indulge/wp-content/uploads/2021/11/daypack-300x300.jpg" style="float: left";width="100" height="100"> 
+    </center>       
+        <p id="productImage2">sky bags</p>
+        <p id="productPrice2">$100</p>
+            <p id="productName2"></p>
+            <input type="submit"id="productAdd2"value="Add">  
+            <p id="productFooterIcon">Brought to you by shop world</p>
+        
+            
+</div>
+<div>
+<img id="productImage3"src="https://m.media-amazon.com/images/I/71nNiiL8fHL._UL1500_.jpg"width="100" height="100" >
+    </center>       
+        <p id="productImage3">Hand bags</p>
+        <p id="productPrice3">$200</p>
+            <p id="productName3"></p>
+            <input type="submit"id="productAdd2"value="Add"> 
+    </center>  
+</div>   
+<div>
+<img id="productImage4"src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/136518-wmobyjygqo-1581656465.jpg"width="100" height="100" >       
+        <p id="productImage4">Louis Vuitton</p>
+        <p id="productPrice4">$200</p>
+            <p id="productName4"></p>
+            <input type="submit"id="productAdd2"value="Add"> 
+</div>  
+<div>
+<img id="productImage5"src="https://m.media-amazon.com/images/I/71xM9lYP58L.jpg"width="100" height="100" >       
+        <p id="productImage5">Tissot</p>
+        <p id="productPrice5">$200</p>
+            <p id="productName5"></p>
+            <input type="submit"id="productAdd2"value="Add"> 
+</div> 
+<div> 
+<img id="productImage6"src="https://m.media-amazon.com/images/G/31/img19/Fashion/WA19/DressStore_Sobe/updates/midibold._SS680_QL85_.png"width="100" height="100" >       
+        <p id="productImage6">Dress</p>
+        <p id="productPrice6">$250</p>
+            <p id="productName6"></p>
+            <input type="submit"id="productAdd2"value="Add"> 
+</div>
+<div>
+<img id="productImage7"src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13855576/2022/4/25/1d9760b4-c33e-4d72-a6af-8e81970fd0161650883622705USPoloAssnMenGreySolidSneakers1.jpg"width="100" height="100" >       
+        <p id="productImage7">Sneakers</p>
+        <p id="productPrice7">$300</p>
+            <p id="productName7"></p>
+            <input type="submit"id="productAdd2"value="Add"> 
+</div>
+<div>
+<img id="productImage8"src="https://thumbs.dreamstime.com/b/diamonds-earrings-isolated-diamonds-golden-butterfly-earrings-isolated-over-black-107010179.jpg"width="100" height="100" >       
+        <p id="productImage8">Sneakers</p>
+        <p id="productPrice8">$120</p>
+            <p id="productName8"></p>
+            <input type="submit"id="productAdd2"value="Add">
+<div>
+<img id="productImage9"src="https://cdn.shopify.com/s/files/1/1223/0734/products/maahika-necklace-set-necklace-sets-blingvine-156351_750x.jpg?v=1636529951"width="100" height="100" >       
+        <p id="productImage9">Pearl choker</p>
+        <p id="productPrice9">$400</p>
+            <p id="productName9"></p>
+            <input type="submit"id="productAdd2"value="Add">
+<div>
+<img id="productImage10"src="https://i.pinimg.com/originals/fe/42/d8/fe42d811b2db75e71effe003ea6def83.jpg"width="100" height="100" >       
+        <p id="productImage10">Bangles</p>
+        <p id="productPrice10">$320</p>
+            <p id="productName10"></p>
+            <input type="submit"id="productAdd2"value="Add">
+</body>
+</html>
